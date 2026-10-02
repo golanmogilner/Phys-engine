@@ -8,7 +8,7 @@ ai overview of my project:
                             
 ## 🎯 Overview
 
-This physics engine was developed as a class project in early 2026, demonstrating practical implementation of Newtonian physics principles. The engine features real-time 2D physics simulation with interactive controls, visual debugging tools, and conservation of momentum verification.
+This physics engine was developed as a class project in late 2025, demonstrating practical implementation of Newtonian physics principles. The engine features real-time 2D physics simulation with interactive controls, visual debugging tools, and conservation of momentum verification.
 
 ## ✨ Features
 
